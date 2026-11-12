@@ -19,7 +19,6 @@ class cricket:
             else:
                   print("Scores cannot be negative")
 
-
 class Football:
     def __init__(self, player, score):
         self.__player = player 
